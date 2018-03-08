@@ -1,2 +1,2 @@
 # LeetCode
-The solution of the topic on the LeetCode
+The solutions of the topic on the LeetCode
