@@ -1,5 +1,7 @@
 package leetcode;
 
+import leetcode.support.ListNode;
+
 /**
  * 链表的中间结点
  *
@@ -33,11 +35,5 @@ public class MiddleNode {
             }
         }
     }
-}
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
 }
 
